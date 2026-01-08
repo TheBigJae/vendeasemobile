@@ -1,12 +1,8 @@
 # vendeasemobile
 
-A new Flutter project.
+<img width="1462" height="949" alt="Screenshot 2025-11-06 133141" src="https://github.com/user-attachments/assets/315f4213-4f27-48f2-bd5d-b3ba39d42dea" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+<img width="1294" height="802" alt="Screenshot 2025-11-06 132456" src="https://github.com/user-attachments/assets/652bbab4-9692-444d-804f-b893c8321e66" />
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
