@@ -1,12 +1,29 @@
 # vendeasemobile
 
-<img width="1462" height="949" alt="Screenshot 2025-11-06 133141" src="https://github.com/user-attachments/assets/315f4213-4f27-48f2-bd5d-b3ba39d42dea" />
+Vendease Restaurant Management Syste,
 
-<img width="1294" height="802" alt="Screenshot 2025-11-06 132456" src="https://github.com/user-attachments/assets/652bbab4-9692-444d-804f-b893c8321e66" />
+.
+## App preview 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="1348" height="846" alt="Screenshot 2025-11-06 132510" src="https://github.com/user-attachments/assets/d8ad2403-ced9-4771-8df8-76c061ee336f" />
+<img width="1294" height="802" alt="Screenshot 2025-11-06 132456" src="https://github.com/user-attachments/assets/57114d10-ab47-4624-a026-eddffca9a17e" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+## Features
+
+## State management: Riverpod
+Flutter Screen Util (to scale font & widget sizes)
+Fonts (NeueMontreal)
+Image Cache
+## Products
+ - Fetch products from API endpoint (upstream)
+ - Categorize products into sub categories
+## Cart
+ - Add product to cart
+ - Increment product order quantity
+ - Decrement product order quantity
+ - Delete prouduct from cart
+ - Cart total item
+ - Cart total price
