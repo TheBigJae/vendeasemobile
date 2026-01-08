@@ -1,6 +1,6 @@
 # vendeasemobile
 
-Vendease Restaurant Management Syste,
+Vendease Restaurant Management System
 
 .
 ## App preview 
